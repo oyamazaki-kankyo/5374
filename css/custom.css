@@ -103,6 +103,9 @@ a:hover {
 #accordion1 #cfk1 {
 	border-top: 1px solid black;
 }
+#accordion1 #cfk1 a {
+	color: blue;
+}
 #accordion1 #caption1 {
 	font-size: 12px;
 	color: #7F7F7F;
